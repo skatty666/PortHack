@@ -147,7 +147,7 @@ MIT License - Feel free to use and modify!
 
 ## Credits
 
-Created by akasha
+Created by Matt Trobbiani (@Orann), Kiro(AI), and me, Skatty666
 Inspired by Hacknet and The Matrix
 
 ## Troubleshooting
