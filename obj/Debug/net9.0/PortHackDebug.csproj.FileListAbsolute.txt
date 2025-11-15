@@ -1,0 +1,4 @@
+/home/akasha/PortHackUI/PortHackDebug/obj/Debug/net9.0/PortHackDebug.GeneratedMSBuildEditorConfig.editorconfig
+/home/akasha/PortHackUI/PortHackDebug/obj/Debug/net9.0/PortHackDebug.AssemblyInfoInputs.cache
+/home/akasha/PortHackUI/PortHackDebug/obj/Debug/net9.0/PortHackDebug.AssemblyInfo.cs
+/home/akasha/PortHackUI/PortHackDebug/obj/Debug/net9.0/PortHackDebug.csproj.CoreCompileInputs.cache
