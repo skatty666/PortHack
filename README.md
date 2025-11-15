@@ -4,6 +4,7 @@ It's the PortHack animation from the Game "Hacknet", one of my favorite games. S
 There are debugging .cs for exploring Camera positions and the like.
 
 This is literally just to look pretty on your Desktop, nothing else.
+Oh yeah and this wasn't even made by me, the programming was made by Kiro (really cool AI), I just did a lot of research to just make it pop as good as it does...And that was tough, trust me.
 
 ## Features
 
@@ -84,7 +85,7 @@ cat > ~/.config/autostart/porthack.desktop << 'EOF'
 [Desktop Entry]
 Type=Application
 Name=PortHack
-Exec=/home/akasha/.local/bin/PortHack
+Exec=/home/$USER/.local/bin/PortHack
 Hidden=false
 NoDisplay=false
 X-GNOME-Autostart-enabled=true
