@@ -1,8 +1,9 @@
 # PortHack
 
-A cyberpunk-style 3D cube animation with Matrix-inspired falling text, built with MonoGame and C#.
+It's the PortHack animation from the Game "Hacknet", one of my favorite games. Shoutout to Matt Trobbiani (@Orann) for handing the source code out to me. I've been working on this for way too long, so if something is not working, you're on your own. I'm not going to help, sorry.
+There are debugging .cs for exploring Camera positions and the like.
 
-![PortHack Animation](screenshot.png)
+This is literally just to look pretty on your Desktop, nothing else.
 
 ## Features
 
