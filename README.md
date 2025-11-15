@@ -6,6 +6,8 @@ There are debugging .cs for exploring Camera positions and the like.
 This is literally just to look pretty on your Desktop, nothing else.
 Oh yeah and this wasn't even made by me, the programming was made by Kiro (really cool AI), I just did a lot of research to just make it pop as good as it does...And that was tough, trust me.
 
+CHECK THE PORTHATDEBUG BRANCH IF YOU WANT TO SOLVE ISSUES OR EXPERIMENT!! THERE ARE DEBUG FILES THAT ARE BAREBONES!!
+
 ## Features
 
 - 3D wireframe cube animation with diagonal struts
